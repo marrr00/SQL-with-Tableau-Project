@@ -1,0 +1,4 @@
+Insert Employee Data 
+Example 
+INSERT INTO employee(emp_no,birth_date,first_name,last_name,gender,hire_date)
+VALUES (10008,’1958-02-19’,’sara’,’Ahmed’,’F’,’1994-09-15’)
